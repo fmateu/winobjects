@@ -1,0 +1,7 @@
+﻿  Exception.cpp
+  ExceptionApp.cpp
+  ExceptionControl.cpp
+  ExceptionODBC.cpp
+  ExceptionWindows.cpp
+  Generating Code...
+  exceptions.vcxproj -> D:\~dev\workspace\Debug\exceptions.lib

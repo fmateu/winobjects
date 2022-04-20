@@ -1,0 +1,2 @@
+D:\~dev\workspace\Debug\exceptions.pdb
+D:\~dev\exceptions\Debug\exceptions.pdb
